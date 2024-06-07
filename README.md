@@ -6,7 +6,7 @@
 - [Red Hat Enterprise Linux - Life Cycle and Subscription](https://github.com/pslucas0212/Red-Hat-Enterprise-Linux-Life-Cycle-and-Subscription)
 - [Red Hat Enterprise Linux - New Release Information](https://github.com/pslucas0212/Red-Hat-Enterprise-Linux-New-Release-Information)
 - [Red Hat Enterprise Linux - Update and Patch](https://github.com/pslucas0212/Red-Hat-Enterprise-Linux-Update-and-Patch)
-- [Red Hat Enterpise - Security]](https://github.com/pslucas0212/Red-Hat-Enterprise-Linux-Security)
+- [Red Hat Enterpise - Security](https://github.com/pslucas0212/Red-Hat-Enterprise-Linux-Security)
 - [Red Hat Enterprise Linux - Upgrade or Convert](https://github.com/pslucas0212/RHEL-Upgrade-Convert-Useful-links/)
 - [Red Hat Entperise Linux - Performance Tuning](https://github.com/pslucas0212/Red-Hat-Enterprise-Linux-Performance-Tuning/)
 - [Red Hat Enterprise Linux - Ansible](https://github.com/pslucas0212/Red-Hat-Enterprise-Linux-Ansible)
