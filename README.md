@@ -14,3 +14,4 @@
 - [Red Hat Enterprise Linux - General Clustering](https://github.com/pslucas0212/Red-Hat-Enterprise-Linux-Clustering)
 - [Red Hat Enterprise Linux for SAP](https://github.com/pslucas0212/RHEL-For-SAP-Useful-Links)
 - [Red Hat Enterprise Linux on the Cloud](https://github.com/pslucas0212/Red-Hat-Enterprise-Linux-on-the-Cloud)
+- [Red Hat Enterprise Linux Deployment](https://github.com/pslucas0212/Red-Hat-Enterprise-Linux-Deployment)
